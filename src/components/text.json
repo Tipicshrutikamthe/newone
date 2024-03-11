@@ -1,0 +1,22 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "name": "गुलाब",
+      "image": "https://cdn.pixabay.com/photo/2018/05/26/13/05/flower-3431316_1280.jpg",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "name": "Sunflower",
+      "image": "",
+      "price": 8.99
+    },
+    {
+      "id": 3,
+      "name": "Tulip",
+      "image": "tulip.jpg",
+      "price": 12.99
+    }
+  ]
+}
